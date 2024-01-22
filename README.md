@@ -1,2 +1,2 @@
-# ProjectCarCode
+# Code for Self-Driving Car 
 This repository contains the Arduino code for a self-driving car project, including the original tracking code and sub-folders that contain two faster versions of the code. The self-driving car makes use of sensor fusion to navigate a course by tracking a black line. This code enables the car to handle curves, small discontinuities, and turnarounds. With the use of encoder counts, the car's speed and sensitivity self-adjust when the car hits challenging junctions along the course.
